@@ -1,0 +1,132 @@
+#s-b6c87b96-39a8-4b54-9ed6-b02ad88f6dc6 > #backgroundBox {
+  position: absolute;
+}
+#s-b6c87b96-39a8-4b54-9ed6-b02ad88f6dc6 > #alignmentBox {
+  position: relative;
+  max-width: 412.0px;
+  max-height: 778.0px;
+  width: 100%;
+  height: 100%;
+}
+#s-b6c87b96-39a8-4b54-9ed6-b02ad88f6dc6 #s-Image {
+  position: absolute;
+  width: 411.9999999999998px;
+  height: 775.795166141842px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+}
+#s-b6c87b96-39a8-4b54-9ed6-b02ad88f6dc6 #s-Hotspot_1 {
+  position: absolute;
+  width: 51.0px;
+  height: 54.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+}
+#s-b6c87b96-39a8-4b54-9ed6-b02ad88f6dc6 #s-Hotspot_2 {
+  position: absolute;
+  width: 58.00000000000023px;
+  height: 64.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+}
+#s-b6c87b96-39a8-4b54-9ed6-b02ad88f6dc6 #s-Hotspot_5 {
+  position: absolute;
+  width: 302.9999999999993px;
+  height: 80.00000000000028px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+}
+#s-b6c87b96-39a8-4b54-9ed6-b02ad88f6dc6 #s-Image_1 {
+  position: absolute;
+  width: 320.0px;
+  height: 320.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+}
+#s-b6c87b96-39a8-4b54-9ed6-b02ad88f6dc6 #s-Hotspot_6 {
+  position: absolute;
+  width: 43.0px;
+  height: 40.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+}
+#s-b6c87b96-39a8-4b54-9ed6-b02ad88f6dc6 #s-Hotspot_3 {
+  position: absolute;
+  width: 58.00000000000023px;
+  height: 64.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+}
+#s-b6c87b96-39a8-4b54-9ed6-b02ad88f6dc6 #s-Hotspot_4 {
+  position: absolute;
+  width: 58.00000000000023px;
+  height: 64.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+}
+#s-b6c87b96-39a8-4b54-9ed6-b02ad88f6dc6 #s-Image_2 {
+  position: absolute;
+  width: 380.0px;
+  height: 380.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+}
+#s-b6c87b96-39a8-4b54-9ed6-b02ad88f6dc6 #s-Hotspot_7 {
+  position: absolute;
+  width: 231.00000000000108px;
+  height: 80.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+}
+#s-b6c87b96-39a8-4b54-9ed6-b02ad88f6dc6 #s-Hotspot_8 {
+  position: absolute;
+  width: 51.49999999999943px;
+  height: 67.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+}
+#s-b6c87b96-39a8-4b54-9ed6-b02ad88f6dc6 #s-Hotspot_9 {
+  position: absolute;
+  width: 149.0px;
+  height: 54.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-b6c87b96-39a8-4b54-9ed6-b02ad88f6dc6 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
