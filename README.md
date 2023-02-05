@@ -87,17 +87,28 @@ Donde especificamos de forma general el alcance del proyecto
 ## Arquitectura de la información
 
 ## Diagramas HTA
+![papel](./Practica3/Modelo%20de%20Tareas/HTA_Conductor.png)
+![papel](./Practica3/Modelo%20de%20Tareas/HTA_GestorAparcamientos.png)
+![papel](./Practica3/Modelo%20de%20Tareas/HTA_GestorZonas.png)
+
 
 ## Wireflow
+![papel](./Practica3/Diagrama%20de%20Wireflow/Wireflow.png)
 
 ## Bocetos a papel
+![papel](./Practica3/entrega2/Bocetos%20a%20papel/1.png)
+![papel](./Practica3/entrega2/Bocetos%20a%20papel/2.png)
+![papel](./Practica3/entrega2/Bocetos%20a%20papel/3.png)
+![papel](./Practica3/entrega2/Bocetos%20a%20papel/4.png)
+![papel](./Practica3/entrega2/Bocetos%20a%20papel/5.png)
 
 ## Wireframe
+![papel](./Practica3/entrega2/Bocetos%20a%20papel/1.png)
 
 ## Mockup de alta fidelidad
 
 ## Prototipo funcional
-Puede probar el prototipo funcional descargando el siguiente archivo: [prototipo funcional]()
+Puede probar el prototipo funcional descargando el siguiente archivo: [prototipo funcional](./Prototipo%20funcional/)
 
 
 ## Autores
