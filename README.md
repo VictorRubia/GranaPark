@@ -62,6 +62,44 @@ Tenemos tres roles dentro de la aplicación:
 #### Cómo inicar sesión
 Un aspecto a tener en cuenta en la navegación a través de los bocetos es que *para acceder al apartado de administración del gestor de aparcamientos* es *necesario* introducir en el input llamado ‘Nombre de usuario’ (en la pantalla de inicio de sesión), el nombre: *aparcamiento*. A su vez, para poder *acceder al apartado de funcionalidades del gestor de zonas*, se deberá introducir en este mismo input, el nombre de usuario: *zonas*. Por otro lado, para acceder a la pantalla de conductor, se debe indicar el nombre '*conductor*'. De lo contrario, no se podrá acceder a las funcionalidades de estos tipos de usuario en la simulación de JustInMind y únicamente se podrá visualizar el mapa inicial así como los parkings existentes pero no se podrá realizar ninguna reserva.
 
+# ¿Qué pasos hemos seguido para desarrollar GranáPark?
+
+## Brainstorming
+Lluvia de ideas realizada por el equipo sobre posibles aplicaciones útiles actualmente que podríamos desarrollar.
+![brainstorming]()
+
+## Estudio de mercado
+Tras seleccionar la idea, hacemos un estudio de mercado para conocer las fortalezas, debilidades, amenazas y oportunidades de nuestra aplicación.
+
+## Descripción de los principales usuarios
+Describimos usuarios a los que está destinada la aplicación y posibles escenarios de uso.
+
+## Casos de uso
+Diagrama que representa las funcionalidades de los diferentes actores que pueden utilizar nuestra aplicación.
+
+## Storyboards
+Visualmente transmitimos las historias de los posibles usuarios que utilicen nuestra aplicación.
+
+
+## Documento de visión
+Donde especificamos de forma general el alcance del proyecto
+
+## Arquitectura de la información
+
+## Diagramas HTA
+
+## Wireflow
+
+## Bocetos a papel
+
+## Wireframe
+
+## Mockup de alta fidelidad
+
+## Prototipo funcional
+Puede probar el prototipo funcional descargando el siguiente archivo: [prototipo funcional]()
+
+
 ## Autores
 - [Víctor Machado Fernández](https://github.com/VictorRubia).
 - [Víctor José Rubia López](https://github.com/VictorRubia).
