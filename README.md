@@ -86,6 +86,7 @@ Visualmente transmitimos las historias de los posibles usuarios que utilicen nue
 
 ## Documento de visión
 Donde especificamos de forma general el alcance del proyecto.
+
 [Documento de visión](./Practica2/DocumentoVisionFormato.pdf)
 
 ## Arquitectura de la información
@@ -107,9 +108,9 @@ Donde especificamos de forma general el alcance del proyecto.
 ![papel](./Practica3/entrega2/Bocetos%20a%20papel/5.png)
 
 ## Wireframe
-![papel](./Practica3/Bocetos/digital/Imagenes%20Alta%20Fidelidad/AnadirAparcamiento%401x%20(1)%201.png)
 
 ## Mockup de alta fidelidad
+![papel](./Practica3/Bocetos/digital/Imagenes%20Alta%20Fidelidad/AnadirAparcamiento%401x%20(1)%201.png)
 
 ## Prototipo funcional
 Puede probar el prototipo funcional descargando el siguiente archivo: [prototipo funcional](./Prototipo%20funcional/)
