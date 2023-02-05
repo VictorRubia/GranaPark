@@ -79,13 +79,17 @@ Diagrama que representa las funcionalidades de los diferentes actores que pueden
 
 ## Storyboards
 Visualmente transmitimos las historias de los posibles usuarios que utilicen nuestra aplicación.
+![papel](./Practica2/Storyboard%20Israel.png)
+![papel](./Practica2/StoryBoard_Ram%C3%B3m.png)
+![papel](./Practica2/StoryboardHerminia.png)
 
 
 ## Documento de visión
-Donde especificamos de forma general el alcance del proyecto
+Donde especificamos de forma general el alcance del proyecto.
+[Documento de visión](./Practica2/DocumentoVisionFormato.pdf)
 
 ## Arquitectura de la información
-
+[Arquitectura de la información](./Practica3/Arquitectura%20Informaci%C3%B3n/)
 ## Diagramas HTA
 ![papel](./Practica3/Modelo%20de%20Tareas/HTA_Conductor.png)
 ![papel](./Practica3/Modelo%20de%20Tareas/HTA_GestorAparcamientos.png)
@@ -103,7 +107,7 @@ Donde especificamos de forma general el alcance del proyecto
 ![papel](./Practica3/entrega2/Bocetos%20a%20papel/5.png)
 
 ## Wireframe
-![papel](./Practica3/entrega2/Bocetos%20a%20papel/1.png)
+![papel](./Practica3/Bocetos/digital/Imagenes%20Alta%20Fidelidad/AnadirAparcamiento%401x%20(1)%201.png)
 
 ## Mockup de alta fidelidad
 
