@@ -66,7 +66,7 @@ Un aspecto a tener en cuenta en la navegación a través de los bocetos es que *
 
 ## Brainstorming
 Lluvia de ideas realizada por el equipo sobre posibles aplicaciones útiles actualmente que podríamos desarrollar.
-![brainstorming]()
+![brainstorming](https://drive.google.com/file/d/1cwAjm4YuP2FCJF-DkP2NnDf3BXxP0gs3/view?usp=share_link)
 
 ## Estudio de mercado
 Tras seleccionar la idea, hacemos un estudio de mercado para conocer las fortalezas, debilidades, amenazas y oportunidades de nuestra aplicación.
