@@ -2,7 +2,7 @@
 ## Despreocúpate de buscar aparcamientos libres, te mostramos dónde ir [aquí mismo](https://sites.google.com/go.ugr.es/granapark/).
 <img src="./imgs/logo.jpeg"  width="15%" height="10%">
 
-Visita nuestra web: https://sites.google.com/go.ugr.es/granapark/
+Visita nuestra web: [https://sites.google.com/go.ugr.es/granapark/](https://sites.google.com/go.ugr.es/granapark/)
 
 ## Contenidos
 - [Práctica 1](./Practica1/):
