@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devAndroid android-device canvas firer commentable non-processed" alignment="left" name="Template 1" width="360" height="778">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1673876387688.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1675711957181.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="s-091cc84b-a486-4973-9ed9-fec9d2aa5e50" class="screen growth-vertical devMobile devAndroid android-device canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="MapaInicialAmpliado" width="360" height="778">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/091cc84b-a486-4973-9ed9-fec9d2aa5e50-1673876387688.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/091cc84b-a486-4973-9ed9-fec9d2aa5e50-1675711957181.css" />\
       <div class="freeLayout">\
       <div id="s-Dynamic_Panel_1" class="dynamicpanel firer ie-background commentable pin vpin-beginning hpin-beginning non-processed-pin non-processed" customid="Small Top bar" datasizewidth="360.0px" datasizeheight="89.0px" dataX="-0.0" dataY="-0.0" >\
         <div id="s-Panel_1" class="panel default firer ie-background commentable non-processed" customid="Panel 1"  datasizewidth="360.0px" datasizeheight="89.0px" >\
@@ -302,7 +302,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
 \
 \
       <div id="s-Group_21" class="group firer ie-background commentable non-processed" customid="Google_Maps_pin" datasizewidth="0.0px" datasizeheight="0.0px" >\
-        <div id="s-Path_28" class="path firer click commentable non-processed" customid="path4337-3"   datasizewidth="20.8px" datasizeheight="35.7px" dataX="235.7" dataY="335.3"  >\
+        <div id="s-Path_28" class="path firer click taphold commentable non-processed" customid="path4337-3"   datasizewidth="20.8px" datasizeheight="35.7px" dataX="235.7" dataY="335.3"  >\
           <div class="borderLayer">\
           	<div class="imageViewport">\
             	<?xml version="1.0" encoding="UTF-8"?>\
@@ -320,7 +320,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
             </div>\
           </div>\
         </div>\
-        <div id="s-Circle_1" class="path firer click commentable non-processed" customid="path3049"   datasizewidth="7.2px" datasizeheight="7.2px" dataX="242.5" dataY="342.1"  >\
+        <div id="s-Circle_1" class="path firer click taphold commentable non-processed" customid="path3049"   datasizewidth="7.2px" datasizeheight="7.2px" dataX="242.5" dataY="342.1"  >\
           <div class="borderLayer">\
           	<div class="imageViewport">\
             	<?xml version="1.0" encoding="UTF-8"?>\

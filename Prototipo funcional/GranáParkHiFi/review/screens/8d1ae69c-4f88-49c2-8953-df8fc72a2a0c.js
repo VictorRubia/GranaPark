@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devAndroid android-device canvas firer commentable non-processed" alignment="left" name="Template 1" width="360" height="778">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1673876387688.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1675711957181.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="s-8d1ae69c-4f88-49c2-8953-df8fc72a2a0c" class="screen growth-vertical devMobile devAndroid android-device canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="DetallesReserva_Conductor" width="360" height="778">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/8d1ae69c-4f88-49c2-8953-df8fc72a2a0c-1673876387688.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/8d1ae69c-4f88-49c2-8953-df8fc72a2a0c-1675711957181.css" />\
       <div class="freeLayout">\
       <div id="s-Dynamic_Panel_1" class="dynamicpanel firer ie-background commentable pin vpin-end hpin-beginning non-processed-pin non-processed" customid="Navigation bar" datasizewidth="360.0px" datasizeheight="80.0px" dataX="0.0" dataY="47.1" >\
         <div id="s-Panel_1" class="panel default firer ie-background commentable non-processed" customid="Panel 4"  datasizewidth="360.0px" datasizeheight="80.0px" >\
@@ -430,14 +430,14 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
           </div>\
         </div>\
       </div>\
-      <div id="s-Path_11" class="path firer commentable non-processed" customid="Event"   datasizewidth="21.0px" datasizeheight="24.0px" dataX="36.0" dataY="203.1"  >\
+      <div id="s-Path_11" class="path firer commentable non-processed" customid="Event"   datasizewidth="21.0px" datasizeheight="24.0px" dataX="36.0" dataY="217.1"  >\
         <div class="borderLayer">\
         	<div class="imageViewport">\
           	<?xml version="1.0" encoding="UTF-8"?>\
-          	<svg xmlns="http://www.w3.org/2000/svg" width="21.0" height="24.0" viewBox="35.999999999998636 203.10054016113276 21.0 24.0" preserveAspectRatio="none">\
+          	<svg xmlns="http://www.w3.org/2000/svg" width="21.0" height="24.0" viewBox="35.999999999998636 217.10054016113276 21.0 24.0" preserveAspectRatio="none">\
           	  <g>\
           	    <defs>\
-          	      <path id="s-Path_11-8d1ae" d="M52.33333333333197 216.30054016113274 L46.499999999998636 216.30054016113274 L46.499999999998636 222.30054016113274 L52.33333333333197 222.30054016113274 L52.33333333333197 216.30054016113274 Z M51.16666666666531 203.10054016113276 L51.16666666666531 205.50054016113276 L41.83333333333197 205.50054016113276 L41.83333333333197 203.10054016113276 L39.499999999998636 203.10054016113276 L39.499999999998636 205.50054016113276 L38.33333333333197 205.50054016113276 C37.03833331664267 205.50054016113276 36.0116666555391 206.58054013252251 36.0116666555391 207.90054016113277 L35.999999999998636 224.70054016113275 C35.999999999998636 226.02054018974297 37.03833331664267 227.10054016113276 38.33333333333197 227.10054016113276 L54.66666666666531 227.10054016113276 C55.95000002781414 227.10054016113276 56.999999999998636 226.02054018974297 56.999999999998636 224.70054016113275 L56.999999999998636 207.90054016113277 C56.999999999998636 206.58054013252251 55.95000002781414 205.50054016113276 54.66666666666531 205.50054016113276 L53.499999999998636 205.50054016113276 L53.499999999998636 203.10054016113276 L51.16666666666531 203.10054016113276 Z M54.66666666666531 224.70054016113275 L38.33333333333197 224.70054016113275 L38.33333333333197 211.50054016113276 L54.66666666666531 211.50054016113276 L54.66666666666531 224.70054016113275 Z "></path>\
+          	      <path id="s-Path_11-8d1ae" d="M52.33333333333197 230.30054016113274 L46.499999999998636 230.30054016113274 L46.499999999998636 236.30054016113274 L52.33333333333197 236.30054016113274 L52.33333333333197 230.30054016113274 Z M51.16666666666531 217.10054016113276 L51.16666666666531 219.50054016113276 L41.83333333333197 219.50054016113276 L41.83333333333197 217.10054016113276 L39.499999999998636 217.10054016113276 L39.499999999998636 219.50054016113276 L38.33333333333197 219.50054016113276 C37.03833331664267 219.50054016113276 36.0116666555391 220.58054013252251 36.0116666555391 221.90054016113277 L35.999999999998636 238.70054016113275 C35.999999999998636 240.02054018974297 37.03833331664267 241.10054016113276 38.33333333333197 241.10054016113276 L54.66666666666531 241.10054016113276 C55.95000002781414 241.10054016113276 56.999999999998636 240.02054018974297 56.999999999998636 238.70054016113275 L56.999999999998636 221.90054016113277 C56.999999999998636 220.58054013252251 55.95000002781414 219.50054016113276 54.66666666666531 219.50054016113276 L53.499999999998636 219.50054016113276 L53.499999999998636 217.10054016113276 L51.16666666666531 217.10054016113276 Z M54.66666666666531 238.70054016113275 L38.33333333333197 238.70054016113275 L38.33333333333197 225.50054016113276 L54.66666666666531 225.50054016113276 L54.66666666666531 238.70054016113275 Z "></path>\
           	    </defs>\
           	    <g style="mix-blend-mode:normal">\
           	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_11-8d1ae" fill="#7D7D7D" fill-opacity="1.0"></use>\
@@ -466,7 +466,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_9" class="richtext manualfit firer ie-background commentable non-processed" customid="Ubicaci&oacute;n: Pl. de la Cale"   datasizewidth="295.0px" datasizeheight="116.0px" dataX="71.0" dataY="129.1" >\
+      <div id="s-Paragraph_9" class="richtext manualfit firer ie-background commentable non-processed" customid="Ubicaci&oacute;n:"   datasizewidth="187.0px" datasizeheight="87.0px" dataX="71.0" dataY="129.1" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -475,7 +475,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
           <div class="paddingLayer">\
             <div class="content">\
               <div class="valign">\
-                <span id="rtr-s-Paragraph_9_0"> Ubicaci&oacute;n: Pl. de la Caleta,<br /><br /> &nbsp; &nbsp; &nbsp;</span>\
+                <span id="rtr-s-Paragraph_9_0"> Ubicaci&oacute;n:<br /><br /> &nbsp; &nbsp; &nbsp;</span>\
               </div>\
             </div>\
           </div>\
@@ -499,7 +499,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_10" class="richtext autofit firer ie-background commentable non-processed" customid="Parking: La Caleta"   datasizewidth="164.5px" datasizeheight="22.0px" dataX="31.8" dataY="101.0" >\
+      <div id="s-Paragraph_10" class="richtext autofit firer ie-background commentable non-processed" customid="Parking:"   datasizewidth="78.9px" datasizeheight="22.0px" dataX="31.8" dataY="101.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -508,22 +508,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
           <div class="paddingLayer">\
             <div class="content">\
               <div class="valign">\
-                <span id="rtr-s-Paragraph_10_0">Parking: La Caleta</span>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-      </div>\
-      <div id="s-Paragraph_11" class="richtext manualfit firer ie-background commentable non-processed" customid="4, 18012 Granada"   datasizewidth="295.0px" datasizeheight="116.0px" dataX="71.0" dataY="158.1" >\
-        <div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div>\
-        <div class="borderLayer">\
-          <div class="paddingLayer">\
-            <div class="content">\
-              <div class="valign">\
-                <span id="rtr-s-Paragraph_11_0"> 4, 18012 Granada<br /><br /><br /> &nbsp; &nbsp; &nbsp;</span>\
+                <span id="rtr-s-Paragraph_10_0">Parking: </span>\
               </div>\
             </div>\
           </div>\
@@ -604,7 +589,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_7" class="richtext autofit firer ie-background commentable non-processed" customid="Fecha de Inicio:"   datasizewidth="141.2px" datasizeheight="22.0px" dataX="71.0" dataY="205.1" >\
+      <div id="s-Paragraph_7" class="richtext autofit firer ie-background commentable non-processed" customid="Fecha de Inicio:"   datasizewidth="141.2px" datasizeheight="22.0px" dataX="71.0" dataY="219.1" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -822,6 +807,36 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
                 </div>\
                 </div>\
 \
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Paragraph_11" class="richtext manualfit firer pageload ie-background commentable non-processed" customid="Paragraph"   datasizewidth="295.0px" datasizeheight="59.0px" dataX="32.5" dataY="154.1" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_11_0"></span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Paragraph_19" class="richtext manualfit firer pageload ie-background commentable non-processed" customid="Paragraph"   datasizewidth="214.5px" datasizeheight="22.0px" dataX="113.0" dataY="101.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_19_0"></span>\
               </div>\
             </div>\
           </div>\

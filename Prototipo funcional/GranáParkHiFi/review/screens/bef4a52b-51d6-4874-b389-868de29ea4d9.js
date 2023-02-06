@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devAndroid android-device canvas firer commentable non-processed" alignment="left" name="Template 1" width="360" height="778">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1673876387688.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1675711957181.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="s-bef4a52b-51d6-4874-b389-868de29ea4d9" class="screen growth-vertical devMobile devAndroid android-device canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="MenuFuncionesGestorAparcamientos" width="360" height="778">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/bef4a52b-51d6-4874-b389-868de29ea4d9-1673876387688.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/bef4a52b-51d6-4874-b389-868de29ea4d9-1675711957181.css" />\
       <div class="freeLayout">\
       <div id="s-Dynamic_Panel_1" class="dynamicpanel firer ie-background commentable pin vpin-beginning hpin-beginning non-processed-pin non-processed" customid="Small Top bar" datasizewidth="360.0px" datasizeheight="89.0px" dataX="-0.0" dataY="-0.0" >\
         <div id="s-Panel_1" class="panel default firer ie-background commentable non-processed" customid="Panel 1"  datasizewidth="360.0px" datasizeheight="89.0px" >\
@@ -721,11 +721,11 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
       <div id="s-Input_1" class="text firer commentable non-processed" customid="Input 1"  datasizewidth="300.0px" datasizeheight="45.0px" dataX="38.1" dataY="244.0" ><div class="backgroundLayer">\
         <div class="colorLayer"></div>\
         <div class="imageLayer"></div>\
-      </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder="Nombre de usuario: David Ramirez"/></div></div>  </div></div></div>\
+      </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100" readonly="readonly" tabindex="-1" placeholder="Nombre de usuario: David Ramirez"/></div></div>  </div></div></div>\
       <div id="s-Input_2" class="text firer commentable non-processed" customid="Input 1"  datasizewidth="300.0px" datasizeheight="45.0px" dataX="38.1" dataY="279.0" ><div class="backgroundLayer">\
         <div class="colorLayer"></div>\
         <div class="imageLayer"></div>\
-      </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder="Correo electr&oacute;nico: davidrami@ugr.es"/></div></div>  </div></div></div>\
+      </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100" readonly="readonly" tabindex="-1" placeholder="Correo electr&oacute;nico: davidrami@ugr.es"/></div></div>  </div></div></div>\
       <div id="s-Button_2" class="button multiline manualfit firer click ie-background commentable non-processed" customid="Gesti&oacute;n de Aparcamientos"   datasizewidth="362.0px" datasizeheight="77.0px" dataX="0.0" dataY="328.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
@@ -861,13 +861,13 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
           </div>\
         </div>\
       </div>\
-      <div id="s-Hotspot_4" class="imagemap firer ie-background commentable non-processed" customid="Hotspot 4"   datasizewidth="359.5px" datasizeheight="77.0px" dataX="-0.0" dataY="326.5"  >\
+      <div id="s-Hotspot_4" class="imagemap firer click ie-background commentable non-processed" customid="Hotspot 4"   datasizewidth="359.5px" datasizeheight="77.0px" dataX="-0.0" dataY="326.5"  >\
         <div class="clickableSpot"></div>\
       </div>\
       <div id="s-Hotspot_5" class="imagemap firer click ie-background commentable non-processed" customid="Hotspot 4"   datasizewidth="359.5px" datasizeheight="75.0px" dataX="0.2" dataY="404.5"  >\
         <div class="clickableSpot"></div>\
       </div>\
-      <div id="s-Hotspot_6" class="imagemap firer ie-background commentable non-processed" customid="Hotspot 4"   datasizewidth="359.5px" datasizeheight="75.0px" dataX="0.2" dataY="481.0"  >\
+      <div id="s-Hotspot_6" class="imagemap firer click ie-background commentable non-processed" customid="Hotspot 4"   datasizewidth="359.5px" datasizeheight="75.0px" dataX="0.2" dataY="481.0"  >\
         <div class="clickableSpot"></div>\
       </div>\
       </div>\

@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devAndroid android-device canvas firer commentable non-processed" alignment="left" name="Template 1" width="360" height="778">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1673876387688.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1675711957181.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="s-b794aa92-a348-4d1a-a1b9-1d937440cd0c" class="screen growth-vertical devMobile devAndroid android-device canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="GoogleMaps" width="360" height="778">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/b794aa92-a348-4d1a-a1b9-1d937440cd0c-1673876387688.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/b794aa92-a348-4d1a-a1b9-1d937440cd0c-1675711957181.css" />\
       <div class="freeLayout">\
       <div id="s-Group_16" class="group firer ie-background commentable non-processed" customid="Maps screen" datasizewidth="0.0px" datasizeheight="0.0px" >\
         <div id="s-Image_1" class="image lockV firer ie-background commentable non-processed" customid="Map Image"   datasizewidth="360.0px" datasizeheight="720.0px" dataX="-0.0" dataY="1.0" aspectRatio="2.0"   alt="image">\
