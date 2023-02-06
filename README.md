@@ -108,17 +108,25 @@ Donde especificamos de forma general el alcance del proyecto.
 ![papel](./Practica3/Diagrama%20de%20Wireflow/Wireflow.png)
 
 ## Bocetos a papel
-![papel](./Practica3/entrega2/Bocetos%20a%20papel/1.png)
-![papel](./Practica3/entrega2/Bocetos%20a%20papel/2.png)
-![papel](./Practica3/entrega2/Bocetos%20a%20papel/3.png)
-![papel](./Practica3/entrega2/Bocetos%20a%20papel/4.png)
-![papel](./Practica3/entrega2/Bocetos%20a%20papel/5.png)
-![papel](./Practica3/entrega1/Bocetos%20a%20papel/1.png)
-![papel](./Practica3/entrega1/Bocetos%20a%20papel/2.png)
-![papel](./Practica3/entrega1/Bocetos%20a%20papel/3.png)
+![papel](./imgs/boceto1.PNG)
+![papel](./imgs/boceto2.PNG)
+![papel](./imgs/boceto3.PNG)
+![papel](./imgs/boceto4.PNG)
+![papel](./imgs/boceto5.PNG)
+![papel](./imgs/boceto6.PNG)
+![papel](./imgs/boceto7.PNG)
+![papel](./imgs/boceto8.PNG)
+![papel](./imgs/boceto9.PNG)
+![papel](./imgs/boceto10.PNG)
+![papel](./imgs/boceto11.PNG)
 
 
 ## Wireframe
+![papel](./imgs/w1.PNG)
+![papel](./imgs/w2.PNG)
+![papel](./imgs/w3.PNG)
+![papel](./imgs/w4.PNG)
+![papel](./imgs/w5.PNG)
 
 ## Mockup de alta fidelidad
 ![papel](./Practica3/Bocetos/digital/Imagenes%20Alta%20Fidelidad/AnadirAparcamiento%401x%20(1)%201.png)
