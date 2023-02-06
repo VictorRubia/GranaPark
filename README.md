@@ -1,7 +1,7 @@
 <img align="left" width="80" height="80" src="imgs/logo.jpeg" alt="APP ICON">
 
 # GranáPark
-## Despreocúpate de buscar aparcamientos libres, te mostramos dónde ir [aquí mismo](https://sites.google.com/go.ugr.es/granapark/).
+## Despreocúpate de buscar aparcamientos libres, te mostramos dónde ir [aquí mismo](https://sergiomesasyelamos2000.github.io/GranaPark/Prototipo%20funcional/Gran%C3%A1ParkHiFi/#/screens/e043ad75-cfa0-493f-a95e-1996b179d6ec).
 
 ![web](imgs/web_screen.png)
 
