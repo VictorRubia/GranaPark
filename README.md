@@ -174,6 +174,20 @@ Donde especificamos de forma general el alcance del proyecto.
 ![papel](./Practica3/Bocetos/digital/Imagenes%20Alta%20Fidelidad/RecuperacionContrase_C3_B1a%401x.png)
 ![papel](./Practica3/Bocetos/digital/Imagenes%20Alta%20Fidelidad/Registrarse%401x.png)
 
+## Plantilla para pruebas de recorridos cognitivos
+[prototipo funcional](./Practica4/Plantillas%20Recorrido%20Cognitivo.pdf)
+
+### 1º Prueba Cognitiva: Usuario conductor
+[prototipo funcional](./Practica4/1%20-%20Recorrido%20Cognitivo%20Conductor.pdf)
+### 2º Prueba Cognitiva: Usuario conductor
+[prototipo funcional](./Practica4/2%20-%20Recorrido%20Cognitivo%20Conductor.pdf)
+### 3º Prueba Cognitiva: Gestor de aparcamientos
+[prototipo funcional](./Practica4/3%20-%20Recorrido%20Cognitivo%20Gestor%20Aparcamientos.pdf)
+### 4º Prueba Cognitiva: Gestor de zonas
+[prototipo funcional](./Practica4/4%20-%20Recorrido%20Cognitivo%20Gestor%20Zonas.pdf)
+### Notas del test de usabilidad
+[prototipo funcional](./Practica4/RecoridoCognitivo_Observador.pdf)
+
 ## Prototipo funcional
 Puede probar el prototipo funcional descargando el siguiente archivo: [prototipo funcional](./Prototipo%20funcional/)
 
