@@ -66,16 +66,23 @@ Un aspecto a tener en cuenta en la navegación a través de los bocetos es que *
 
 ## Brainstorming
 Lluvia de ideas realizada por el equipo sobre posibles aplicaciones útiles actualmente que podríamos desarrollar.
-![brainstorming](https://drive.google.com/file/d/1cwAjm4YuP2FCJF-DkP2NnDf3BXxP0gs3/view?usp=share_link)
+![brainstorming](./imgs/brainstorming.PNG)
 
 ## Estudio de mercado
 Tras seleccionar la idea, hacemos un estudio de mercado para conocer las fortalezas, debilidades, amenazas y oportunidades de nuestra aplicación.
 
+[Estudio de mercado](./Practica1/Informe%20del%20Analisis%20de%20Mercado.pdf)
+
 ## Descripción de los principales usuarios
 Describimos usuarios a los que está destinada la aplicación y posibles escenarios de uso.
+![papel](./imgs/user1.PNG)
+
+![papel](./imgs/user2.PNG)
 
 ## Casos de uso
 Diagrama que representa las funcionalidades de los diferentes actores que pueden utilizar nuestra aplicación.
+![papel](./imgs/Diagrama%20de%20Casos%20de%20Uso.drawio.png)
+
 
 ## Storyboards
 Visualmente transmitimos las historias de los posibles usuarios que utilicen nuestra aplicación.
@@ -106,6 +113,10 @@ Donde especificamos de forma general el alcance del proyecto.
 ![papel](./Practica3/entrega2/Bocetos%20a%20papel/3.png)
 ![papel](./Practica3/entrega2/Bocetos%20a%20papel/4.png)
 ![papel](./Practica3/entrega2/Bocetos%20a%20papel/5.png)
+![papel](./Practica3/entrega1/Bocetos%20a%20papel/1.png)
+![papel](./Practica3/entrega1/Bocetos%20a%20papel/2.png)
+![papel](./Practica3/entrega1/Bocetos%20a%20papel/3.png)
+
 
 ## Wireframe
 
