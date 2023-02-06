@@ -1,6 +1,7 @@
 # GranáPark
 ## Despreocúpate buscar aparcamientos libres, te mostramos dónde ir [aquí mismo](https://sites.google.com/go.ugr.es/granapark/).
-![logo](./imgs/logo.jpeg)
+<img src="./imgs/logo.jpeg"  width="15%" height="10%">
+
 https://sites.google.com/go.ugr.es/granapark/
 
 ## Contenidos
