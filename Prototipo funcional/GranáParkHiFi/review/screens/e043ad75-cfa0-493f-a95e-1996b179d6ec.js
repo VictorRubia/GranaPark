@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devAndroid android-device canvas firer commentable non-processed" alignment="left" name="Template 1" width="360" height="778">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1673876387688.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1675711957181.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="s-e043ad75-cfa0-493f-a95e-1996b179d6ec" class="screen growth-vertical devMobile devAndroid android-device canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="MapaInicial" width="360" height="778">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/e043ad75-cfa0-493f-a95e-1996b179d6ec-1673876387688.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/e043ad75-cfa0-493f-a95e-1996b179d6ec-1675711957181.css" />\
       <div class="freeLayout">\
       <div id="s-Dynamic_Panel_1" class="dynamicpanel firer ie-background commentable pin vpin-beginning hpin-beginning non-processed-pin non-processed" customid="Small Top bar" datasizewidth="360.0px" datasizeheight="89.0px" dataX="-0.0" dataY="0.0" >\
         <div id="s-Panel_1" class="panel default firer pageload ie-background commentable non-processed" customid="Panel 1"  datasizewidth="360.0px" datasizeheight="89.0px" >\
@@ -1219,14 +1219,14 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
             </div>\
           </div>\
         </div>\
-        <div id="s-Path_58" class="path firer commentable non-processed" customid="path3049"   datasizewidth="7.2px" datasizeheight="7.2px" dataX="275.5" dataY="448.1"  >\
+        <div id="s-Path_58" class="path firer commentable non-processed" customid="path3049"   datasizewidth="7.2px" datasizeheight="7.2px" dataX="275.5" dataY="449.1"  >\
           <div class="borderLayer">\
           	<div class="imageViewport">\
             	<?xml version="1.0" encoding="UTF-8"?>\
-            	<svg xmlns="http://www.w3.org/2000/svg" width="7.197761535644531" height="7.229950428009033" viewBox="275.54927349090576 448.09349298477173 7.197761535644531 7.229950428009033" preserveAspectRatio="none">\
+            	<svg xmlns="http://www.w3.org/2000/svg" width="7.197761535644531" height="7.229950428009033" viewBox="275.54927349090576 449.09349298477173 7.197761535644531 7.229950428009033" preserveAspectRatio="none">\
             	  <g>\
             	    <defs>\
-            	      <path id="s-Path_58-e043a" d="M275.54930988703995 451.7084679778818 C275.5404806715219 453.6827356508576 277.1577921306107 455.31457780296097 279.13205980358646 455.3234070184791 C281.11850026710397 455.3322906725075 282.75588249821215 453.6949084413993 282.74699884418374 451.7084679778818 C282.7558280597018 449.73420030490604 281.138516600613 448.10235815280265 279.16424892763723 448.09352893728453 C277.1778084641197 448.0846452832561 275.54042623301154 449.7220275143643 275.54930988703995 451.7084679778818 "></path>\
+            	      <path id="s-Path_58-e043a" d="M275.54930988703995 452.7084679778818 C275.5404806715219 454.6827356508576 277.1577921306107 456.31457780296097 279.13205980358646 456.3234070184791 C281.11850026710397 456.3322906725075 282.75588249821215 454.6949084413993 282.74699884418374 452.7084679778818 C282.7558280597018 450.73420030490604 281.138516600613 449.10235815280265 279.16424892763723 449.09352893728453 C277.1778084641197 449.0846452832561 275.54042623301154 450.7220275143643 275.54930988703995 452.7084679778818 "></path>\
             	    </defs>\
             	    <g style="mix-blend-mode:normal">\
             	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_58-e043a" fill="#590000" fill-opacity="1.0"></use>\

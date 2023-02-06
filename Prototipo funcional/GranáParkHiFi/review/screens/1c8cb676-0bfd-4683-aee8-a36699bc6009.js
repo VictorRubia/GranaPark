@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devAndroid android-device canvas firer commentable non-processed" alignment="left" name="Template 1" width="360" height="778">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1673876387688.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1675711957181.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="s-1c8cb676-0bfd-4683-aee8-a36699bc6009" class="screen growth-vertical devMobile devAndroid android-device canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="RealizarReserva" width="360" height="778">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/1c8cb676-0bfd-4683-aee8-a36699bc6009-1673876387688.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/1c8cb676-0bfd-4683-aee8-a36699bc6009-1675711957181.css" />\
       <div class="freeLayout">\
       <div id="s-Dynamic_Panel_1" class="dynamicpanel firer ie-background commentable pin vpin-end hpin-beginning non-processed-pin non-processed" customid="Navigation bar" datasizewidth="360.0px" datasizeheight="80.0px" dataX="0.0" dataY="47.1" >\
         <div id="s-Panel_1" class="panel default firer ie-background commentable non-processed" customid="Panel 4"  datasizewidth="360.0px" datasizeheight="80.0px" >\
@@ -366,7 +366,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
         </div>\
       </div>\
       <div id="s-Dynamic_Panel_4" class="dynamicpanel firer ie-background commentable non-processed" customid="Dynamic Panel 4" datasizewidth="223.8px" datasizeheight="56.0px" dataX="68.1" dataY="590.0" >\
-        <div id="s-Panel_4" class="panel default firer click ie-background commentable non-processed" customid="Panel 4"  datasizewidth="223.8px" datasizeheight="56.0px" >\
+        <div id="s-Panel_4" class="panel default firer ie-background commentable non-processed" customid="Panel 4"  datasizewidth="223.8px" datasizeheight="56.0px" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -375,7 +375,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
           	<div class="layoutWrapper scrollable">\
           	  <div class="paddingLayer">\
                 <div class="freeLayout">\
-                <div id="s-Button_1" class="button multiline manualfit firer click commentable non-processed" customid="Button"   datasizewidth="219.8px" datasizeheight="56.0px" dataX="-0.0" dataY="0.0" >\
+                <div id="s-Button_1" class="button multiline manualfit firer commentable non-processed" customid="Button"   datasizewidth="219.8px" datasizeheight="56.0px" dataX="-0.0" dataY="0.0" >\
                   <div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
@@ -829,6 +829,9 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
             </div>\
           </div>\
         </div>\
+      </div>\
+      <div id="s-Hotspot_4" class="imagemap firer click ie-background commentable non-processed" customid="Hotspot 4"   datasizewidth="223.9px" datasizeheight="57.0px" dataX="68.0" dataY="589.0"  >\
+        <div class="clickableSpot"></div>\
       </div>\
       </div>\
 \

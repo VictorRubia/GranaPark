@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devAndroid android-device canvas firer commentable non-processed" alignment="left" name="Template 1" width="360" height="778">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1673876387688.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1675711957181.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="s-38d2834e-bec7-4de0-8237-67817e2b0f62" class="screen growth-vertical devMobile devAndroid android-device canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="MenuFuncionesConductor" width="360" height="778">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/38d2834e-bec7-4de0-8237-67817e2b0f62-1673876387688.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/38d2834e-bec7-4de0-8237-67817e2b0f62-1675711957181.css" />\
       <div class="freeLayout">\
       <div id="s-Dynamic_Panel_1" class="dynamicpanel firer ie-background commentable pin vpin-beginning hpin-beginning non-processed-pin non-processed" customid="Small Top bar" datasizewidth="360.0px" datasizeheight="89.0px" dataX="-0.0" dataY="0.0" >\
         <div id="s-Panel_1" class="panel default firer pageload ie-background commentable non-processed" customid="Panel 1"  datasizewidth="360.0px" datasizeheight="89.0px" >\
@@ -324,11 +324,11 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
       <div id="s-Input_1" class="text firer commentable non-processed" customid="Input 1"  datasizewidth="300.0px" datasizeheight="45.0px" dataX="38.1" dataY="255.0" ><div class="backgroundLayer">\
         <div class="colorLayer"></div>\
         <div class="imageLayer"></div>\
-      </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder="Nombre de usuario: Ana Gonz&aacute;lez"/></div></div>  </div></div></div>\
+      </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100" readonly="readonly" tabindex="-1" placeholder="Nombre de usuario: Ana Gonz&aacute;lez"/></div></div>  </div></div></div>\
       <div id="s-Input_2" class="text firer commentable non-processed" customid="Input 1"  datasizewidth="300.0px" datasizeheight="45.0px" dataX="38.1" dataY="300.0" ><div class="backgroundLayer">\
         <div class="colorLayer"></div>\
         <div class="imageLayer"></div>\
-      </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder="Correo electr&oacute;nico: anades@ugr.es"/></div></div>  </div></div></div>\
+      </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100" readonly="readonly" tabindex="-1" placeholder="Correo electr&oacute;nico: anades@ugr.es"/></div></div>  </div></div></div>\
       <div id="s-Button_3" class="button multiline manualfit firer click ie-background commentable non-processed" customid="Ver mis Reservas"   datasizewidth="362.0px" datasizeheight="77.0px" dataX="0.0" dataY="369.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\

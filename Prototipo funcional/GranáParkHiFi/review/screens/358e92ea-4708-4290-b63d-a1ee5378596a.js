@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devAndroid android-device canvas firer commentable non-processed" alignment="left" name="Template 1" width="360" height="778">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1673876387688.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1675711957181.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="s-358e92ea-4708-4290-b63d-a1ee5378596a" class="screen growth-vertical devMobile devAndroid android-device canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="EvitarPromocionarZona" width="360" height="778">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/358e92ea-4708-4290-b63d-a1ee5378596a-1673876387688.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/358e92ea-4708-4290-b63d-a1ee5378596a-1675711957181.css" />\
       <div class="freeLayout">\
       <div id="s-Image_1" class="image lockV firer click pinchopen ie-background commentable non-processed" customid="Map Image"   datasizewidth="359.5px" datasizeheight="640.1px" dataX="0.3" dataY="89.0" aspectRatio="1.7805556"   alt="image">\
         <div class="borderLayer">\

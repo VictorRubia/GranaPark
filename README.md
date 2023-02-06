@@ -1,6 +1,9 @@
+<img align="left" width="80" height="80" src="imgs/logo.jpeg" alt="APP ICON">
+
 # GranáPark
 ## Despreocúpate de buscar aparcamientos libres, te mostramos dónde ir [aquí mismo](https://sites.google.com/go.ugr.es/granapark/).
-<img src="./imgs/logo.jpeg"  width="15%" height="10%">
+
+![web](imgs/web_screen.png)
 
 Visita nuestra web: [https://sites.google.com/go.ugr.es/granapark/](https://sites.google.com/go.ugr.es/granapark/)
 
@@ -176,6 +179,6 @@ Puede probar el prototipo funcional descargando el siguiente archivo: [prototipo
 
 
 ## Autores
-- [Víctor Machado Fernández](https://github.com/VictorRubia).
-- [Víctor José Rubia López](https://github.com/VictorRubia).
-- [Sergio Mesas Yélamos](https://github.com/sergiomesasyelamos2000).
+- :octocat:	[Víctor Machado Fernández](https://github.com/VictorRubia).
+- :octocat:	[Víctor José Rubia López](https://github.com/VictorRubia).
+- :octocat:	[Sergio Mesas Yélamos](https://github.com/sergiomesasyelamos2000).

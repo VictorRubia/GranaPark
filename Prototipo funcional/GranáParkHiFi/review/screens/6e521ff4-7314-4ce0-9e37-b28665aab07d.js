@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devAndroid android-device canvas firer commentable non-processed" alignment="left" name="Template 1" width="360" height="778">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1673876387688.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1675711957181.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,150 +12,8 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
     <div id="s-6e521ff4-7314-4ce0-9e37-b28665aab07d" class="screen growth-vertical devMobile devAndroid android-device canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="EdicionPerfil_1" width="360" height="778">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/6e521ff4-7314-4ce0-9e37-b28665aab07d-1673876387688.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/6e521ff4-7314-4ce0-9e37-b28665aab07d-1675711957181.css" />\
       <div class="freeLayout">\
-      <div id="s-Dynamic_Panel_1" class="dynamicpanel firer ie-background commentable pin vpin-beginning hpin-beginning non-processed-pin non-processed" customid="Small Top bar" datasizewidth="360.0px" datasizeheight="89.0px" dataX="-0.0" dataY="0.0" >\
-        <div id="s-Panel_1" class="panel default firer pageload ie-background commentable non-processed" customid="Panel 1"  datasizewidth="360.0px" datasizeheight="89.0px" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-          	<div class="layoutWrapper scrollable">\
-          	  <div class="paddingLayer">\
-                <div class="freeLayout">\
-                <div id="s-Rectangle_1" class="rectangle manualfit firer commentable non-processed" customid="BG"   datasizewidth="360.0px" datasizeheight="88.0px" datasizewidthpx="360.0" datasizeheightpx="88.0" dataX="-0.0" dataY="-0.0" >\
-                  <div class="backgroundLayer">\
-                    <div class="colorLayer"></div>\
-                    <div class="imageLayer"></div>\
-                  </div>\
-                  <div class="borderLayer">\
-                    <div class="paddingLayer">\
-                      <div class="content">\
-                        <div class="valign">\
-                          <span id="rtr-s-Rectangle_1_0"></span>\
-                        </div>\
-                      </div>\
-                    </div>\
-                  </div>\
-                </div>\
-                <div id="s-Paragraph_1" class="richtext manualfit firer ie-background commentable non-processed" customid="Men&uacute; de Funciones"   datasizewidth="265.2px" datasizeheight="58.0px" dataX="21.0" dataY="31.0" >\
-                  <div class="backgroundLayer">\
-                    <div class="colorLayer"></div>\
-                    <div class="imageLayer"></div>\
-                  </div>\
-                  <div class="borderLayer">\
-                    <div class="paddingLayer">\
-                      <div class="content">\
-                        <div class="valign">\
-                          <span id="rtr-s-Paragraph_1_0">Men&uacute; de Funciones</span>\
-                        </div>\
-                      </div>\
-                    </div>\
-                  </div>\
-                </div>\
-\
-                <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="top bar" datasizewidth="0.0px" datasizeheight="0.0px" >\
-                  <div id="s-Path_1" class="path firer commentable non-processed" customid="wifi-icone"   datasizewidth="15.0px" datasizeheight="11.9px" dataX="296.0" dataY="22.0"  >\
-                    <div class="borderLayer">\
-                    	<div class="imageViewport">\
-                      	<?xml version="1.0" encoding="UTF-8"?>\
-                      	<svg xmlns="http://www.w3.org/2000/svg" width="15.0" height="11.920103073120117" viewBox="295.99999999999955 21.999999999999318 15.0 11.920103073120117" preserveAspectRatio="none">\
-                      	  <g>\
-                      	    <defs>\
-                      	      <path id="s-Path_1-6e521" d="M303.5064436386422 33.91365996600962 L310.99999999999955 24.57731965678368 C310.71005154629233 24.358247483652704 307.8234536336194 21.999999999999318 303.4999995775439 21.999999999999318 C299.1701033038129 21.999999999999318 296.28994845370676 24.358247387640066 295.99999999999955 24.57731965678368 L303.4935569758378 33.91365996600962 L303.5000002748357 33.920103265007555 L303.5064435738337 33.91365996600962 Z "></path>\
-                      	    </defs>\
-                      	    <g style="mix-blend-mode:normal">\
-                      	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_1-6e521" fill="#000000" fill-opacity="1.0"></use>\
-                      	    </g>\
-                      	  </g>\
-                      	</svg>\
-\
-                      </div>\
-                    </div>\
-                  </div>\
-                  <div id="s-Path_2" class="path firer commentable non-processed" customid="signal-icon"   datasizewidth="13.0px" datasizeheight="13.0px" dataX="311.0" dataY="21.0"  >\
-                    <div class="borderLayer">\
-                    	<div class="imageViewport">\
-                      	<?xml version="1.0" encoding="UTF-8"?>\
-                      	<svg xmlns="http://www.w3.org/2000/svg" width="13.0" height="13.0" viewBox="310.9999999999998 20.99999999999993 13.0 13.0" preserveAspectRatio="none">\
-                      	  <g>\
-                      	    <defs>\
-                      	      <path id="s-Path_2-6e521" d="M310.9999999999998 33.99999999999993 L323.9999999999998 33.99999999999993 L323.9999999999998 20.99999999999993 Z "></path>\
-                      	    </defs>\
-                      	    <g style="mix-blend-mode:normal">\
-                      	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_2-6e521" fill="#000000" fill-opacity="1.0"></use>\
-                      	    </g>\
-                      	  </g>\
-                      	</svg>\
-\
-                      </div>\
-                    </div>\
-                  </div>\
-\
-                  <div id="s-Group_2" class="group firer ie-background commentable non-processed" customid="battery-icon" datasizewidth="0.0px" datasizeheight="0.0px" >\
-                    <div id="s-Path_3" class="path firer commentable non-processed" customid="Path 80"   datasizewidth="7.0px" datasizeheight="7.7px" dataX="330.0" dataY="20.0"  >\
-                      <div class="borderLayer">\
-                      	<div class="imageViewport">\
-                        	<?xml version="1.0" encoding="UTF-8"?>\
-                        	<svg xmlns="http://www.w3.org/2000/svg" width="7.0" height="7.699999809265137" viewBox="330.0 19.999999999999623 7.0 7.699999809265137" preserveAspectRatio="none">\
-                        	  <g>\
-                        	    <defs>\
-                        	      <path id="s-Path_3-6e521" d="M337.0 22.330999946593835 C337.0 21.819999933242404 336.5799997329712 21.399999999999608 336.0690000534058 21.399999999999608 L334.9 21.399999999999608 L334.9 19.999999999999623 L332.1 19.999999999999623 L332.1 21.399999999999608 L330.9309999465942 21.399999999999608 C330.4199999332428 21.399999999999608 330.0 21.819999933242404 330.0 22.330999946593835 L330.0 27.69999999999954 L337.0 27.69999999999954 L337.0 22.330999946593835 Z "></path>\
-                        	    </defs>\
-                        	    <g style="mix-blend-mode:normal">\
-                        	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_3-6e521" fill="#000000" fill-opacity="0.3"></use>\
-                        	    </g>\
-                        	  </g>\
-                        	</svg>\
-\
-                        </div>\
-                      </div>\
-                    </div>\
-                    <div id="s-Path_4" class="path firer commentable non-processed" customid="Path 81"   datasizewidth="7.0px" datasizeheight="6.3px" dataX="330.0" dataY="28.0"  >\
-                      <div class="borderLayer">\
-                      	<div class="imageViewport">\
-                        	<?xml version="1.0" encoding="UTF-8"?>\
-                        	<svg xmlns="http://www.w3.org/2000/svg" width="7.0" height="6.299999237060547" viewBox="329.9999999999999 28.000000000000213 7.0 6.299999237060547" preserveAspectRatio="none">\
-                        	  <g>\
-                        	    <defs>\
-                        	      <path id="s-Path_4-6e521" d="M329.9999999999999 28.000000000000213 L329.9999999999999 33.36900005340584 C329.9999999999999 33.87999973297125 330.41999993324265 34.300000000000054 330.93099994659406 34.300000000000054 L336.0619998931881 34.300000000000054 C336.57999989986376 34.300000000000054 336.99999991655307 33.87999998331077 336.99999991655307 33.36899996995935 L336.99999991655307 28.000000000000213 L329.9999999999999 28.000000000000213 Z "></path>\
-                        	    </defs>\
-                        	    <g style="mix-blend-mode:normal">\
-                        	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_4-6e521" fill="#000000" fill-opacity="1.0"></use>\
-                        	    </g>\
-                        	  </g>\
-                        	</svg>\
-\
-                        </div>\
-                      </div>\
-                    </div>\
-                  </div>\
-\
-                  <div id="s-Paragraph_2" class="richtext autofit firer ie-background commentable non-processed" customid="9:30"   datasizewidth="24.9px" datasizeheight="15.0px" dataX="21.0" dataY="19.0" >\
-                    <div class="backgroundLayer">\
-                      <div class="colorLayer"></div>\
-                      <div class="imageLayer"></div>\
-                    </div>\
-                    <div class="borderLayer">\
-                      <div class="paddingLayer">\
-                        <div class="content">\
-                          <div class="valign">\
-                            <span id="rtr-s-Paragraph_2_0">9:30</span>\
-                          </div>\
-                        </div>\
-                      </div>\
-                    </div>\
-                  </div>\
-                </div>\
-\
-                </div>\
-\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-      </div>\
       <div id="s-Dynamic_Panel_2" class="dynamicpanel firer ie-background commentable pin vpin-end hpin-beginning non-processed-pin non-processed" customid="Horizontal softkeys light" datasizewidth="359.0px" datasizeheight="48.0px" dataX="0.5" dataY="0.0" >\
         <div id="s-Panel_2" class="panel default firer ie-background commentable non-processed" customid="Panel 1"  datasizewidth="359.0px" datasizeheight="48.0px" >\
           <div class="backgroundLayer">\
@@ -248,7 +106,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
           </div>\
         </div>\
       </div>\
-      <div id="s-Button_2" class="button multiline manualfit firer click commentable non-processed" customid="Cerrar Sesi&oacute;n"   datasizewidth="237.0px" datasizeheight="56.0px" dataX="61.5" dataY="577.0" >\
+      <div id="s-Button_2" class="button multiline manualfit firer click commentable non-processed" customid="APLICAR CAMBIOS"   datasizewidth="207.0px" datasizeheight="62.0px" dataX="76.0" dataY="563.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -257,7 +115,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
           <div class="paddingLayer">\
             <div class="content">\
               <div class="valign">\
-                <span id="rtr-s-Button_2_0">Cerrar Sesi&oacute;n</span>\
+                <span id="rtr-s-Button_2_0">APLICAR CAMBIOS</span>\
               </div>\
             </div>\
           </div>\
@@ -309,7 +167,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
                 </div>\
             </div>\
         </div>\
-        <div id="s-Path_101" class="path firer commentable non-processed" customid="Edit"   datasizewidth="8.0px" datasizeheight="7.8px" dataX="204.1" dataY="157.1"  >\
+        <div id="s-Path_101" class="path firer click commentable non-processed" customid="Edit"   datasizewidth="8.0px" datasizeheight="7.8px" dataX="204.1" dataY="157.1"  >\
           <div class="borderLayer">\
           	<div class="imageViewport">\
             	<?xml version="1.0" encoding="UTF-8"?>\
@@ -906,7 +764,7 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
 \
       <div id="s-Group_17" class="group firer ie-background commentable hidden non-processed" customid="Group 14" datasizewidth="0.0px" datasizeheight="0.0px" >\
         <div id="s-Group_18" class="group firer ie-background commentable hidden non-processed" customid="Required input" datasizewidth="0.0px" datasizeheight="0.0px" >\
-          <div id="s-Input_6" class="text firer focusin focusout commentable hidden non-processed" customid="Input"  datasizewidth="316.6px" datasizeheight="42.2px" dataX="21.5" dataY="200.3" ><div class="backgroundLayer">\
+          <div id="s-Input_6" class="text firer commentable hidden non-processed" customid="Input"  datasizewidth="316.6px" datasizeheight="42.2px" dataX="21.5" dataY="200.3" ><div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
           </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder="Pedro Jim&eacute;nez"/></div></div>  </div></div></div>\
@@ -931,10 +789,10 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
           <div class="borderLayer">\
           	<div class="imageViewport">\
             	<?xml version="1.0" encoding="UTF-8"?>\
-            	<svg xmlns="http://www.w3.org/2000/svg" width="19.926956176757812" height="20.80599021911621" viewBox="31.0301049712812 213.59187316894526 19.926956176757812 20.80599021911621" preserveAspectRatio="none">\
+            	<svg xmlns="http://www.w3.org/2000/svg" width="19.926956176757812" height="20.80599021911621" viewBox="31.03010497128122 213.59187316894526 19.926956176757812 20.80599021911621" preserveAspectRatio="none">\
             	  <g>\
             	    <defs>\
-            	      <path id="s-Path_12-6e521" d="M40.99358339959243 213.59187316894526 C35.493743326168456 213.59187316894526 31.0301049712812 218.2524150332453 31.0301049712812 223.99486835746737 C31.0301049712812 229.73732168168942 35.493743326168456 234.39786354598948 40.99358339959243 234.39786354598948 C46.4934234730164 234.39786354598948 50.95706182790366 229.73732168168942 50.95706182790366 223.99486835746737 C50.95706182790366 218.2524150332453 46.493423948112074 213.59187316894526 40.99358339959243 213.59187316894526 Z M40.99358339959243 216.71277172550188 C42.64752078543539 216.71277172550188 43.9826269280858 218.10677311548758 43.9826269280858 219.83367028205853 C43.9826269280858 221.56056744862946 42.64752078543539 222.95456883861516 40.99358339959243 222.95456883861516 C39.33964601374946 222.95456883861516 38.004539871099055 221.56056744862946 38.004539871099055 219.83367028205853 C38.004539871099055 218.10677311548758 39.33964601374946 216.71277172550188 40.99358339959243 216.71277172550188 Z M40.99358339959243 231.4850246947819 C38.50271379251462 231.4850246947819 36.30078502185019 230.15344134041428 35.015496342605694 228.13526021431457 C35.045386777222525 226.06506416187761 39.00088771393018 224.9311377756183 40.99358339959243 224.9311377756183 C42.97631561632828 224.9311377756183 46.941779812252136 226.06506428589097 46.97167045657916 228.13526021431457 C45.686381777334674 230.15344134041428 43.484453006670236 231.4850246947819 40.99358339959243 231.4850246947819 Z "></path>\
+            	      <path id="s-Path_12-6e521" d="M40.99358339959245 213.59187316894526 C35.49374332616848 213.59187316894526 31.03010497128122 218.2524150332453 31.03010497128122 223.99486835746737 C31.03010497128122 229.73732168168942 35.49374332616848 234.39786354598948 40.99358339959245 234.39786354598948 C46.49342347301642 234.39786354598948 50.95706182790368 229.73732168168942 50.95706182790368 223.99486835746737 C50.95706182790368 218.2524150332453 46.493423948112095 213.59187316894526 40.99358339959245 213.59187316894526 Z M40.99358339959245 216.71277172550188 C42.64752078543541 216.71277172550188 43.982626928085814 218.10677311548758 43.982626928085814 219.83367028205853 C43.982626928085814 221.56056744862946 42.64752078543541 222.95456883861516 40.99358339959245 222.95456883861516 C39.33964601374947 222.95456883861516 38.00453987109908 221.56056744862946 38.00453987109908 219.83367028205853 C38.00453987109908 218.10677311548758 39.33964601374947 216.71277172550188 40.99358339959245 216.71277172550188 Z M40.99358339959245 231.4850246947819 C38.50271379251464 231.4850246947819 36.3007850218502 230.15344134041428 35.01549634260571 228.13526021431457 C35.04538677722254 226.06506416187761 39.0008877139302 224.9311377756183 40.99358339959245 224.9311377756183 C42.97631561632829 224.9311377756183 46.94177981225215 226.06506428589097 46.97167045657918 228.13526021431457 C45.68638177733469 230.15344134041428 43.48445300667025 231.4850246947819 40.99358339959245 231.4850246947819 Z "></path>\
             	    </defs>\
             	    <g style="mix-blend-mode:normal">\
             	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_12-6e521" fill="#9E0B14" fill-opacity="1.0"></use>\
@@ -991,6 +849,166 @@ var content='<div class="ui-page" deviceName="androidphone" deviceType="mobile" 
         </div>\
       </div>\
 \
+      <div id="s-Dynamic_Panel_1" class="dynamicpanel firer ie-background commentable pin vpin-beginning hpin-beginning non-processed-pin non-processed" customid="Small Top bar" datasizewidth="360.0px" datasizeheight="89.0px" dataX="-0.0" dataY="-0.0" >\
+        <div id="s-Panel_1" class="panel default firer pageload ie-background commentable non-processed" customid="Panel 1"  datasizewidth="360.0px" datasizeheight="89.0px" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+          	<div class="layoutWrapper scrollable">\
+          	  <div class="paddingLayer">\
+                <div class="freeLayout">\
+                <div id="s-Rectangle_1" class="rectangle manualfit firer commentable non-processed" customid="BG"   datasizewidth="360.0px" datasizeheight="88.0px" datasizewidthpx="360.0" datasizeheightpx="88.0" dataX="-0.0" dataY="-0.0" >\
+                  <div class="backgroundLayer">\
+                    <div class="colorLayer"></div>\
+                    <div class="imageLayer"></div>\
+                  </div>\
+                  <div class="borderLayer">\
+                    <div class="paddingLayer">\
+                      <div class="content">\
+                        <div class="valign">\
+                          <span id="rtr-s-Rectangle_1_0"></span>\
+                        </div>\
+                      </div>\
+                    </div>\
+                  </div>\
+                </div>\
+                <div id="s-Paragraph_1" class="richtext manualfit firer ie-background commentable non-processed" customid="Edici&oacute;n perfil"   datasizewidth="154.2px" datasizeheight="29.0px" dataX="48.8" dataY="44.5" >\
+                  <div class="backgroundLayer">\
+                    <div class="colorLayer"></div>\
+                    <div class="imageLayer"></div>\
+                  </div>\
+                  <div class="borderLayer">\
+                    <div class="paddingLayer">\
+                      <div class="content">\
+                        <div class="valign">\
+                          <span id="rtr-s-Paragraph_1_0">Edici&oacute;n perfil</span>\
+                        </div>\
+                      </div>\
+                    </div>\
+                  </div>\
+                </div>\
+                <div id="s-Path_1" class="path firer click commentable non-processed" customid="previous-icon"   datasizewidth="16.0px" datasizeheight="16.0px" dataX="21.0" dataY="51.0"  >\
+                  <div class="borderLayer">\
+                  	<div class="imageViewport">\
+                    	<?xml version="1.0" encoding="UTF-8"?>\
+                    	<svg xmlns="http://www.w3.org/2000/svg" width="16.0" height="16.0" viewBox="20.99999999999996 50.99999999999979 16.0 16.0" preserveAspectRatio="none">\
+                    	  <g>\
+                    	    <defs>\
+                    	      <path id="s-Path_1-6e521" d="M36.99999999999996 57.99999999999979 L24.829999923706016 57.99999999999979 L30.420000076293906 52.409999847411896 L28.99999999999996 50.99999999999979 L20.99999999999996 58.99999999999979 L28.99999999999996 66.99999999999979 L30.40999984741207 65.59000015258768 L24.829999923706016 59.99999999999979 L36.99999999999996 59.99999999999979 L36.99999999999996 57.99999999999979 Z "></path>\
+                    	    </defs>\
+                    	    <g style="mix-blend-mode:normal">\
+                    	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_1-6e521" fill="#1C1B1F" fill-opacity="1.0"></use>\
+                    	    </g>\
+                    	  </g>\
+                    	</svg>\
+\
+                    </div>\
+                  </div>\
+                </div>\
+\
+                <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="top bar" datasizewidth="0.0px" datasizeheight="0.0px" >\
+                  <div id="s-Path_2" class="path firer commentable non-processed" customid="wifi-icone"   datasizewidth="15.0px" datasizeheight="11.9px" dataX="296.0" dataY="22.0"  >\
+                    <div class="borderLayer">\
+                    	<div class="imageViewport">\
+                      	<?xml version="1.0" encoding="UTF-8"?>\
+                      	<svg xmlns="http://www.w3.org/2000/svg" width="15.0" height="11.920103073120117" viewBox="295.9999999999991 21.999999999999332 15.0 11.920103073120117" preserveAspectRatio="none">\
+                      	  <g>\
+                      	    <defs>\
+                      	      <path id="s-Path_2-6e521" d="M303.50644363864177 33.91365996600963 L310.9999999999991 24.577319656783693 C310.7100515462919 24.35824748365272 307.82345363361895 21.999999999999332 303.49999957754346 21.999999999999332 C299.1701033038124 21.999999999999332 296.2899484537063 24.35824738764008 295.9999999999991 24.577319656783693 L303.49355697583735 33.91365996600963 L303.50000027483526 33.92010326500757 L303.5064435738332 33.91365996600963 Z "></path>\
+                      	    </defs>\
+                      	    <g style="mix-blend-mode:normal">\
+                      	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_2-6e521" fill="#000000" fill-opacity="1.0"></use>\
+                      	    </g>\
+                      	  </g>\
+                      	</svg>\
+\
+                      </div>\
+                    </div>\
+                  </div>\
+                  <div id="s-Path_3" class="path firer commentable non-processed" customid="signal-icon"   datasizewidth="13.0px" datasizeheight="13.0px" dataX="311.0" dataY="21.0"  >\
+                    <div class="borderLayer">\
+                    	<div class="imageViewport">\
+                      	<?xml version="1.0" encoding="UTF-8"?>\
+                      	<svg xmlns="http://www.w3.org/2000/svg" width="13.0" height="13.0" viewBox="310.9999999999993 21.000000000000114 13.0 13.0" preserveAspectRatio="none">\
+                      	  <g>\
+                      	    <defs>\
+                      	      <path id="s-Path_3-6e521" d="M310.9999999999993 34.000000000000114 L323.9999999999993 34.000000000000114 L323.9999999999993 21.000000000000114 Z "></path>\
+                      	    </defs>\
+                      	    <g style="mix-blend-mode:normal">\
+                      	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_3-6e521" fill="#000000" fill-opacity="1.0"></use>\
+                      	    </g>\
+                      	  </g>\
+                      	</svg>\
+\
+                      </div>\
+                    </div>\
+                  </div>\
+\
+                  <div id="s-Group_2" class="group firer ie-background commentable non-processed" customid="battery-icon" datasizewidth="0.0px" datasizeheight="0.0px" >\
+                    <div id="s-Path_4" class="path firer commentable non-processed" customid="Path 80"   datasizewidth="7.0px" datasizeheight="7.7px" dataX="330.0" dataY="20.0"  >\
+                      <div class="borderLayer">\
+                      	<div class="imageViewport">\
+                        	<?xml version="1.0" encoding="UTF-8"?>\
+                        	<svg xmlns="http://www.w3.org/2000/svg" width="7.0" height="7.699999809265137" viewBox="329.9999999999991 19.99999999999978 7.0 7.699999809265137" preserveAspectRatio="none">\
+                        	  <g>\
+                        	    <defs>\
+                        	      <path id="s-Path_4-6e521" d="M336.9999999999991 22.33099994659399 C336.9999999999991 21.81999993324256 336.5799997329703 21.399999999999764 336.06900005340486 21.399999999999764 L334.89999999999907 21.399999999999764 L334.89999999999907 19.99999999999978 L332.0999999999991 19.99999999999978 L332.0999999999991 21.399999999999764 L330.9309999465933 21.399999999999764 C330.4199999332419 21.399999999999764 329.9999999999991 21.81999993324256 329.9999999999991 22.33099994659399 L329.9999999999991 27.699999999999697 L336.9999999999991 27.699999999999697 L336.9999999999991 22.33099994659399 Z "></path>\
+                        	    </defs>\
+                        	    <g style="mix-blend-mode:normal">\
+                        	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_4-6e521" fill="#000000" fill-opacity="0.3"></use>\
+                        	    </g>\
+                        	  </g>\
+                        	</svg>\
+\
+                        </div>\
+                      </div>\
+                    </div>\
+                    <div id="s-Path_15" class="path firer commentable non-processed" customid="Path 81"   datasizewidth="7.0px" datasizeheight="6.3px" dataX="330.0" dataY="28.0"  >\
+                      <div class="borderLayer">\
+                      	<div class="imageViewport">\
+                        	<?xml version="1.0" encoding="UTF-8"?>\
+                        	<svg xmlns="http://www.w3.org/2000/svg" width="7.0" height="6.299999237060547" viewBox="329.9999999999992 28.000000000000114 7.0 6.299999237060547" preserveAspectRatio="none">\
+                        	  <g>\
+                        	    <defs>\
+                        	      <path id="s-Path_15-6e521" d="M329.9999999999992 28.000000000000114 L329.9999999999992 33.36900005340574 C329.9999999999992 33.87999973297115 330.41999993324197 34.299999999999955 330.9309999465934 34.299999999999955 L336.0619998931874 34.299999999999955 C336.5799998998631 34.299999999999955 336.9999999165524 33.87999998331067 336.9999999165524 33.36899996995925 L336.9999999165524 28.000000000000114 L329.9999999999992 28.000000000000114 Z "></path>\
+                        	    </defs>\
+                        	    <g style="mix-blend-mode:normal">\
+                        	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_15-6e521" fill="#000000" fill-opacity="1.0"></use>\
+                        	    </g>\
+                        	  </g>\
+                        	</svg>\
+\
+                        </div>\
+                      </div>\
+                    </div>\
+                  </div>\
+\
+                  <div id="s-Paragraph_2" class="richtext autofit firer ie-background commentable non-processed" customid="9:30"   datasizewidth="24.9px" datasizeheight="15.0px" dataX="21.0" dataY="19.0" >\
+                    <div class="backgroundLayer">\
+                      <div class="colorLayer"></div>\
+                      <div class="imageLayer"></div>\
+                    </div>\
+                    <div class="borderLayer">\
+                      <div class="paddingLayer">\
+                        <div class="content">\
+                          <div class="valign">\
+                            <span id="rtr-s-Paragraph_2_0">9:30</span>\
+                          </div>\
+                        </div>\
+                      </div>\
+                    </div>\
+                  </div>\
+                </div>\
+\
+                </div>\
+\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
       </div>\
 \
       </div>\
